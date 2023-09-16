@@ -4,9 +4,7 @@ const header = () => {
   return (
     <div className="nav-container">
       <div>
-          <a to href="/">
-              Home
-          </a>
+      <a href="/"> target="_blank" className="body-text">Home</a>
       </div>
       <a href="/" target="_blank" className="cta-btn">Resumen</a>
     </div>
