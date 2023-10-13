@@ -9,6 +9,7 @@ function body() {
         <h1> Hola! 👋🏾🍀</h1>
 
         <p align="justify">
+          
           Soy Juan Carlos, Técnico en Computación y Tecnologías de la Información, resuelto y habilidoso para la resolución de problemas, ofreciendo soluciones de calidad, eficientes y duraderas a los diferentes  problemas técnicos reportados, así como para prevenir futuros problemas físicos y prolongar la vida de los equipos, responsable y comprometido, ávido a la superación personal y profesional con mucha voluntad y disposición para el trabajo, poseo un nivel medio del idioma inglés, tengo más de veinte años de experiencia en el sector de las TI, destacando entre mis competencias y habilidades la instalación y administración de redes y servicios en sistemas operativos Linux y MS Windows (Estaciones y Servidores).
         </p>
         
