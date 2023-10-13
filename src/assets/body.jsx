@@ -6,7 +6,7 @@ function body() {
     <div className="hero-container">
       <img src={logo} className="profile-img" width={300} height={300} alt="profile.jpg" />
       <div className="body-text">
-        <h1> Hola, Saludos y Bendiciones! 👋🏾🍀</h1>
+        <h1> Hola! 👋🏾🍀</h1>
 
         <p align="justify">
           Soy Juan Carlos, Técnico en Computación y Tecnologías de la Información, resuelto y habilidoso para la resolución de problemas, ofreciendo soluciones de calidad, eficientes y duraderas a los diferentes
