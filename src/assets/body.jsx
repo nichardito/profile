@@ -9,8 +9,12 @@ function body() {
         <h1> Hola! 👋🏾🍀</h1>
 
         <p align="justify">
-          Soy Juan Carlos, Técnico en Computación y Tecnologías de la Información, resuelto y habilidoso para la resolución de problemas, ofreciendo soluciones de calidad, eficientes y duraderas a los diferentes
+          Soy Juan Carlos, Técnico en Computación y Tecnologías de la Información, resuelto y habilidoso para la resolución de
         </p>
+        
+        <p align="justify">
+          problemas, ofreciendo soluciones de calidad, eficientes y duraderas a los diferentes problemas técnicos reportados, así como para prevenir futuros problemas físicos y prolongar la vida de los equipos, responsable y comprometido, ávido a la superación personal y profesional con mucha
+        </p>        
 
         <p align="justify">
           problemas técnicos reportados, así como para prevenir futuros problemas físicos y prolongar la vida de los equipos, responsable y comprometido, ávido a la superación personal y profesional con mucha
