@@ -6,18 +6,22 @@ function body() {
     <div className="hero-container">
       <img src={logo} className="profile-img" width={300} height={300} alt="profile.jpg" />
       <div className="body-text">
-        <h1> Hola! 👋🏾🍀</h1>
+        <h1> Hola, Saludos y Bendiciones! 👋🏾🍀</h1>
 
         <p align="justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente voluptatem optio impedit natus soluta accusantium. Aut a sequi distinctio, illo amet ut temporibus accusantium! Accusamus corrupti quis iure cum nemo.
+          Soy Juan Carlos, Técnico en Computación y Tecnologías de la Información, resuelto y habilidoso para la resolución de problemas, ofreciendo soluciones de calidad, eficientes y duraderas a los diferentes
         </p>
 
         <p align="justify">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure dicta quibusdam qui aperiam voluptatem nobis! Voluptas, tempora totam quam, illo repellat blanditiis, doloribus rem animi soluta maxime doloremque ipsam similique?
+          problemas técnicos reportados, así como para prevenir futuros problemas físicos y prolongar la vida de los equipos, responsable y comprometido, ávido a la superación personal y profesional con mucha
         </p>
 
         <p align="justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam fugit officiis doloribus tempore, nulla inventore perspiciatis corporis porro pariatur tempora, libero quo deleniti fuga eaque ad. Dignissimos mollitia alias at?
+          voluntad y disposición para el trabajo, poseo un nivel medio del idioma inglés, tengo más de veinte años de experiencia en el sector de las TI, destacando entre mis competencias y habilidades la
+        </p>
+
+||||||||<p align="justify">
+          instalación y administración de redes y servicios en sistemas operativos Linux y MS Windows (Estaciones y Servidores).
         </p>
 
         <div className="social-icons">
