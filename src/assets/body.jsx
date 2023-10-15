@@ -6,6 +6,7 @@ function body() {
     <div className="hero-container">
       <img src={logo} className="profile-img" width={300} height={300} alt="profile.jpg" />
       <div className="body-text">
+        <h1> 👷🏾‍♂️👷🏾‍♂️👷🏾‍♂️ </h1>
         <h1> Hola! 👋🏾🍀</h1>
 
         <p align="justify">
